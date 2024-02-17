@@ -75,6 +75,7 @@ d# MOVIE
     <img src="./images/boxoffice.png" width=350>
     <img src="./images/movielist.png" width=350>
     <img src="./images/movie_detail.png" width=350>
+    <img src="./images/movie_reccommend.png" width=350>
 </div>
 
 ### 📢 커뮤니티 
