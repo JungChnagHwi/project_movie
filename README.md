@@ -82,8 +82,11 @@ d# MOVIE
 
 - 영화 리뷰를 남기고 공유할 수 있어요!
 
-<div align="center"><img src="./images/review.png" width=350></div>
-<div align="center"><img src="./images/community.png" width=350></div>
+<div align="center">
+    <img src="./images/review.png" width=350>
+    <img src="./images/community.png" width=350>
+</div>
+
 
 
 ## 3️⃣ 기타
