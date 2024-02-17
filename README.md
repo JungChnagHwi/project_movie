@@ -72,9 +72,9 @@ d# MOVIE
 - 선택한 영화와 비슷한 콘텐츠의 영화를 추천 받을 수 있어요!
 
 <div align="center">
-    <img src="./images/boxoffice.png" width=300>
-    <img src="./images/movielist.png" width=300>
-    <img src="./images/movie_detail.png" width=300>
+    <img src="./images/boxoffice.png" width=350>
+    <img src="./images/movielist.png" width=350>
+    <img src="./images/movie_detail.png" width=350>
 </div>
 
 ### 📢 커뮤니티 
