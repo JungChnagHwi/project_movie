@@ -8,12 +8,12 @@ d# MOVIE
 
 ## 0️⃣ 프로젝트 목차
 
-- [프로젝트 소개](#프로젝트-소개)
-  - [진행 기간](#진행-기간)
-  - [배경 및 기능](#배경-기능)
-  - [개발 환경](#개발-환경)
-- [서비스 화면](#서비스-화면)
-- [기타](#기타)
+- [프로젝트 소개](#1️⃣-프로젝트-소개)
+  - [진행 기간](#📆-진행-기간)
+  - [배경 및 기능](#📖-배경-기능)
+  - [개발 환경](#🛠️-개발-환경)
+- [서비스 화면](#2️⃣-서비스-화면)
+- [기타](#3️⃣-기타)
 
 ## 1️⃣ 프로젝트 소개
 
@@ -58,8 +58,8 @@ d# MOVIE
 - 로그인을 한 사용자만 서비스를 이용할 수 있습니다.
 
 <div align="center">
-    <img src="./images/login.png" width=200>
-    <img src="./images/signup.png" width=200>
+    <img src="./images/login.png" width=400>
+    <img src="./images/signup.png" width=400>
 </div>
 
 ### 🌈 메인
@@ -72,16 +72,16 @@ d# MOVIE
 - 선택한 영화와 비슷한 콘텐츠의 영화를 추천 받을 수 있어요!
 
 <div align="center">
-    <img src="./images/boxoffice.png" width=200>
-    <img src="./images/movielist.png" width=200>
-    <img src="./images/movie_detail.png" width=200>
+    <img src="./images/boxoffice.png" width=400>
+    <img src="./images/movielist.png" width=400>
+    <img src="./images/movie_detail.png" width=400>
 </div>
 
 ### 📢 커뮤니티 
 
 - 영화 리뷰를 남기고 공유할 수 있어요!
 
-<div align="center"><img src="./images/review.png" width=200></div>
+<div align="center"><img src="./images/review.png" width=400></div>
 
 
 ## 3️⃣ 기타
